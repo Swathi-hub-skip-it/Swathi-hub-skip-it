@@ -1,16 +1,69 @@
-## Hi there 👋
+Hi there, I'm Swathi! 👋
 
-<!--
-**Swathi-hub-skip-it/Swathi-hub-skip-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👩‍💻 AI & Machine Learning Student | Aspiring Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about technology, Artificial Intelligence, and building creative projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+🌟 About Me
+
+- 🎓 AI & Machine Learning Student
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🌱 Currently learning Python, Generative AI and Web Development
+- 💡 Interested in developing real-world projects
+- 🚀 Always excited to learn new technologies
+
+---
+
+💻 Technical Skills
+
+- Python
+- HTML
+- CSS
+- JavaScript
+- Flask
+- Git & GitHub
+- Generative AI
+
+---
+
+📂 My Projects
+
+1. LegalEase
+
+- An AI-based legal assistance project.
+- Developed as part of the Naan Mudhalvan project.
+
+2. AI Resume Analyzer
+
+- A project that analyzes resumes and identifies missing skills.
+
+3. The Perfect Student Day
+
+- A student-focused website built using HTML, CSS and JavaScript.
+
+---
+
+🏆 Certifications
+
+- Google Cloud Generative AI Foundations Workshop – SmartBridge (2026)
+
+---
+
+🎯 My Goals
+
+- Improve my programming skills.
+- Explore AI and Machine Learning.
+- Build innovative projects.
+- Grow as a technology professional.
+
+---
+
+🤝 Let's Connect!
+
+I'm always interested in learning, sharing ideas and collaborating on projects.
+
+Thank you for visiting my profile! 💙
+
+⭐ Keep Learning | Keep Building | Keep Growing ⭐
